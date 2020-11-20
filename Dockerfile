@@ -12,4 +12,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 8501
 
-ENTRYPOINT ['bash', 'start.sh']
+ENTRYPOINT ["bash", "start.sh"]
